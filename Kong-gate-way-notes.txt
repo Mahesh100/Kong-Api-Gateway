@@ -1,3 +1,11 @@
+
+What is API Gateway?
+- An API gateway is API management tool that sits between client and collection of backend services.
+
+- An API gateway is acts as a reverse proxy to accept all programming interfce(API) calls,aggregate the various
+  services required to fullfill them, and return the appropriate result.
+
+
 # Kong gateway
 
 Clean up running docker containers

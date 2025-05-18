@@ -1,0 +1,12 @@
+# gists-service
+GET https://api.github.com/users/redhwannacef/gists
+Accept: application/json
+
+#hello-service
+GET http://localhost:8082
+Accept: application/json
+
+
+# kong Admin
+GET http://localhost:8081/services
+Accept: application/json
